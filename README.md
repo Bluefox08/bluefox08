@@ -1,4 +1,4 @@
-## BAM BAM BAM  👋
+## With great power comes great irresponsibility. Lucky for you I have neither 👋
 
 <!--
 **Bluefox08/bluefox08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
